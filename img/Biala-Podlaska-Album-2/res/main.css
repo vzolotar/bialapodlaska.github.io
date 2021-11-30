@@ -1,0 +1,109 @@
+html {
+	height: 100%;
+	overflow: hidden;
+}
+body {
+	height: 100%;
+	color:#ffffff;
+	margin: 0;
+	padding: 0;
+	background-color: #000000;
+}
+div#seo {
+	display:none;
+}
+div#startbtn {
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-122px;
+	margin-left:-122px;
+}
+div#startbtn a {
+    opacity: 0.8;
+}
+div#startbtn a:hover {
+    opacity: 1;
+}
+div#startbtn a:active {
+	left:2px;
+	top:2px;
+	position: relative;
+}
+div#overlay {
+	position:fixed;
+	background-color: #000;
+    opacity: 0.6;
+}
+
+div#nag {
+	font: 13px/1.4 Segoe,"Segoe UI","Helvetica Neue",Helvetica,sans-serif;
+	line-height: 20px;
+	position:fixed;
+	right: 15px;
+	bottom: -50px;
+	opacity: 0;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	padding: 8px;
+	color: #ccc;
+	background-color: rgba(0,0,0,0.5);
+}
+div#nag a {
+	color: #fff;
+}
+div#nag a.fat {
+	font-size: 20px;
+	color: #f00;
+}
+
+div#ctrlbuttons {
+	position:fixed;
+	right: -185px;
+	top: 15px;
+	width: 160px;
+	height: 61px;
+	background-image:url(i/btn.png);
+	background-repeat: no-repeat;
+	overflow: hidden;
+	padding-top:7px;
+	padding-left:20px;
+}
+
+div#ctrlbuttons * {
+	background-image:url(i/btn.png);
+	float:left;
+	width: 45px;
+	height: 45px;
+	padding-left: 5px;
+	overflow: hidden;
+}
+
+div#ctrlbuttons .fullscreen0:active,
+div#ctrlbuttons .fullscreen1:active,
+div#ctrlbuttons .music0:active,
+div#ctrlbuttons .music1:active,
+div#ctrlbuttons .play0:active,
+div#ctrlbuttons .play1:active {
+	left:1px;
+	top:1px;
+	position: relative;
+}
+
+div#ctrlbuttons .fullscreen0:hover,
+div#ctrlbuttons .fullscreen1:hover,
+div#ctrlbuttons .music0:hover,
+div#ctrlbuttons .music1:hover,
+div#ctrlbuttons .play0:hover,
+div#ctrlbuttons .play1:hover {
+	opacity: .8;
+}
+
+div#ctrlbuttons .fullscreen0 { background-position: -180px 0px; }
+div#ctrlbuttons .fullscreen1 { background-position: -180px -45px; }
+
+div#ctrlbuttons .music0 { background-position: -0px -61px; }
+div#ctrlbuttons .music1 { background-position: -45px -61px; }
+
+div#ctrlbuttons .play0 { background-position: -135px -61px; }
+div#ctrlbuttons .play1 { background-position: -90px -61px; }

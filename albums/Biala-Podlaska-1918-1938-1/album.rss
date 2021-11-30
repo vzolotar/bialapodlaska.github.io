@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Biała Podlaska 1918-1938, Kino Miraż, ul. Łomaska</title>
+   	<link>.</link>
+        <generator>jAlbum 13.9</generator>
+   		<description>Kino Miraż, ul. Łomaska, Plac Wolności, Wieża Zamkowa, Obchody Święta Wojska, Głos Społeczny, Młodzież z Podlasia miesięcznik młodzieży gimnazjalnej w Białej Podlaskie</description>
+        <jalbum:absolutePath>http://www.bialapodlaska.myoptimus.com/</jalbum:absolutePath>
+        <item>
+            <title>Bialczanka wracająca rowerem z Placu Wolności w Białej Podlaskiej, 1932</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/1.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/1.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/1.jpg" width="800" height="498"/>
+            <guid isPermaLink="false">slides/1.jpg</guid>
+        </item>
+        <item>
+            <title>Kino Miraż, Biała Podlaska, 1924</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/2.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/2.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/2.jpg" width="960" height="710"/>
+            <guid isPermaLink="false">slides/2.jpg</guid>
+        </item>
+        <item>
+            <title>Wieża Zamkowa, Park Radziwiłłowski, Biała Podlaska</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/3.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/3.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/3.jpg" width="463" height="720"/>
+            <guid isPermaLink="false">slides/3.jpg</guid>
+        </item>
+        <item>
+            <title>Kino Miraż, Biała Podlaska, 1928</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/4.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/4.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/4.jpg" width="940" height="720"/>
+            <guid isPermaLink="false">slides/4.jpg</guid>
+        </item>
+        <item>
+            <title>Biała Podlaska, lata 30-ste</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/5.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/5.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/5.jpg" width="400" height="620"/>
+            <guid isPermaLink="false">slides/5.jpg</guid>
+        </item>
+        <item>
+            <title>Kino Miraż, Biała Podlaska, 1928</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/6.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/6.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/6.jpg" width="513" height="720"/>
+            <guid isPermaLink="false">slides/6.jpg</guid>
+        </item>
+        <item>
+            <title>Obchody Święta Wojska Polskiego, Biała Podlaska</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/7.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/7.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/7.jpg" width="911" height="596"/>
+            <guid isPermaLink="false">slides/7.jpg</guid>
+        </item>
+        <item>
+            <title>Gazeta Zarządu M. Białej Podlaskiej R. 1 (1922) nr 2</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/8.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/8.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/8.jpg" width="567" height="720"/>
+            <guid isPermaLink="false">slides/8.jpg</guid>
+        </item>
+        <item>
+            <title>ul. Łomaska, Biała Podlaska</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/9.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/9.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/9.jpg" width="960" height="620"/>
+            <guid isPermaLink="false">slides/9.jpg</guid>
+        </item>
+        <item>
+            <title>Głos Społeczny, Biała Podlaska, lata 30-ste</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/10.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/10.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/10.jpg" width="655" height="720"/>
+            <guid isPermaLink="false">slides/10.jpg</guid>
+        </item>
+        <item>
+            <title>Młodzież z Podlasia  miesięcznik młodzieży gimnazjalnej w Białej Podlaskiej R.9 (1931) nr 4 </title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/11.jpg</link>
+            <pubDate>Thu, 02 Mar 2017 16:07:58 -0600</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/11.jpg" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/11.jpg" width="884" height="434"/>
+            <guid isPermaLink="false">slides/11.jpg</guid>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Biała Podlaska - Historia w zdjęciach, Album 2</title>
+   	<link>.</link>
+        <generator>jAlbum 13.3</generator>
+   		<description>Biała Podlaska i okolice - Album fotograficzny: zdjęcia, foto, fotografia, fotki, galerie, photos, pictures, fotografia, historia, informacja, ogłoszenia</description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>BialaPodlaska-6</title>
+            <link>slides/BialaPodlaska-6.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-6.jpg" width="124" height="76"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-6.jpg" width="900" height="555"/>
+            <jalbum:exif originalDate="Fri, 21 Nov 2008 11:54:12 -0600" cameraMake="Panasonic" cameraModel="DMC-L1"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-6.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-7</title>
+            <link>slides/BialaPodlaska-7.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-7.jpg" width="124" height="81"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-7.jpg" width="850" height="557"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-7.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-5.1</title>
+            <link>slides/BialaPodlaska-5.1.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-5.1.jpg" width="124" height="75"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-5.1.jpg" width="474" height="288"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-5.1.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-4</title>
+            <link>slides/BialaPodlaska-4.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-4.jpg" width="124" height="80"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-4.jpg" width="900" height="578"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-4.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-5</title>
+            <link>slides/BialaPodlaska-5.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-5.jpg" width="124" height="79"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-5.jpg" width="900" height="575"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-5.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-3</title>
+            <link>slides/BialaPodlaska-3.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-3.jpg" width="79" height="124"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-3.jpg" width="489" height="768"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-3.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-3.1</title>
+            <link>slides/BialaPodlaska-3.1.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-3.1.jpg" width="124" height="81"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-3.1.jpg" width="500" height="326"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-3.1.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-8</title>
+            <link>slides/BialaPodlaska-8.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-8.jpg" width="124" height="74"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-8.jpg" width="930" height="555"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-8.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-7.1</title>
+            <link>slides/BialaPodlaska-7.1.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-7.1.jpg" width="124" height="93"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-7.1.jpg" width="786" height="587"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-7.1.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-1</title>
+            <link>slides/BialaPodlaska-1.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-1.jpg" width="124" height="78"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-1.jpg" width="819" height="518"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-1.jpg</guid>
+        </item>
+        <item>
+            <title>BialaPodlaska-2</title>
+            <link>slides/BialaPodlaska-2.jpg</link>
+            <pubDate>Thu, 21 Jul 2016 18:24:40 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/BialaPodlaska-2.jpg" width="124" height="80"/>
+            <media:content type="image/jpeg" url="slides/BialaPodlaska-2.jpg" width="1024" height="660"/>
+            <guid isPermaLink="false">slides/BialaPodlaska-2.jpg</guid>
+        </item>
+    </channel>
+</rss>

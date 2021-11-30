@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>Biała Podlaska 2005, Kościół pw. Narodzenia NMP, Plac Rubina...</title>
+   	<link>.</link>
+        <generator>jAlbum 13.10</generator>
+   		<description>Plac Wolnośc, Kościół pw. Narodzenia NMP, Plac Rubina, Kościół św. Antoniego, Ul. Gabriela Narutowicza, II Liceum Ogólnokształcące im. Emilii Plater</description>
+        <jalbum:absolutePath>http://www.bialapodlaska.myoptimus.com/</jalbum:absolutePath>
+        <item>
+            <title>Plac Wolnośc, Biała Podlaska. 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5803.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5803.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5803.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:17:13 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5803.JPG</guid>
+        </item>
+        <item>
+            <title>Plac Wolnośc, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5804.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5804.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5804.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:17:29 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5804.JPG</guid>
+        </item>
+        <item>
+            <title>Plac Wolnośc, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5805.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5805.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5805.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:17:36 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5805.JPG</guid>
+        </item>
+        <item>
+            <title>Plac Rubina, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5808.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5808.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5808.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:21:43 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5808.JPG</guid>
+        </item>
+        <item>
+            <title>Kościół św. Antoniego, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5810.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5810.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5810.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:23:26 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5810.JPG</guid>
+        </item>
+        <item>
+            <title>Ul. Gabriela Narutowicza, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5811.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5811.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5811.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:23:50 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5811.JPG</guid>
+        </item>
+        <item>
+            <title>II Liceum Ogólnokształcące im. Emilii Plater, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5812.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5812.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5812.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:23:57 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5812.JPG</guid>
+        </item>
+        <item>
+            <title>Ul. Gabriela Narutowicza, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5813.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5813.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5813.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:24:03 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5813.JPG</guid>
+        </item>
+        <item>
+            <title>Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5827.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5827.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5827.JPG" width="960" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 05:33:42 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5827.JPG</guid>
+        </item>
+        <item>
+            <title>Kościół pw. Narodzenia NMP, Biała Podlaska, 2005</title>
+            <link>http://www.bialapodlaska.myoptimus.com/slides/IMG_5859.JPG</link>
+            <pubDate>Tue, 21 Mar 2017 17:27:12 -0500</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="http://www.bialapodlaska.myoptimus.com/thumbs/IMG_5859.JPG" width="200" height="150"/>
+            <media:content type="image/jpeg" url="http://www.bialapodlaska.myoptimus.com/slides/IMG_5859.JPG" width="540" height="720"/>
+            <jalbum:exif originalDate="Wed, 17 Aug 2005 06:11:53 -0500" cameraMake="Canon" cameraModel="Canon PowerShot A95"/>
+            <guid isPermaLink="false">slides/IMG_5859.JPG</guid>
+        </item>
+    </channel>
+</rss>
