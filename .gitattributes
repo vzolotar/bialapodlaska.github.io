@@ -8,3 +8,5 @@ albums/Biala-Podlaska-16-19-wiek-1/res/*.css linguist-detectable=false
 /*.css linguist-detectable=false
 /*.html linguist-detectable=false
 /* linguist-vendored
+/albums/*.css linguist-detectable=false
+/albums/*.html linguist-detectable=false
