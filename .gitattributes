@@ -1,7 +1,7 @@
 albums/**/*.css linguist-detectable=false
 albums/**/*.html linguist-detectable=false
 albums/**/*.js linguist-detectable=false
-albums/**/*.html linguist-detectable=false
+albums/**/*.htm linguist-detectable=false
 wpscripts/*.css linguist-detectable=false
 albums/Biala-Podlaska-16-19-wiek-1/res/*.css linguist-detectable=false
 /img/Biala-Podlaska-Album-2/*.css linguist-detectable=false
